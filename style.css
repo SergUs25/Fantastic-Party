@@ -1,0 +1,65 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: turquoise;
+    padding: 9px;
+}
+
+header a {
+    text-decoration: none;
+    color: white;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+h1 {
+    text-align: center;
+    color: Tomato;
+    background-color: MintCream;
+    border: 1px solid darkgrey;
+    border-radius: 10px;
+}
+
+footer p{
+    border: 3px solid MistyRose;
+    padding: 5px;
+}
+
+footer {
+    background-color: SkyBlue;
+}
+
+nav a {
+    border: 2px solid navy;
+    background-color: navy;
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+    border-radius: 15px;
+    margin: 10px;
+}
+
+nav {
+    margin: 15px;
+}
+
+.products {
+    background-color: FireBrick;
+    color: white;
+    border-radius: 10px;
+    border: 1px solid FireBrick;
+    padding: 5px;
+}
+
+h2 {
+    color: blue;
+}
+
+.link-1 {
+    border: 3px solid darkblue;
+    padding: 5px;
+    text-decoration: none;
+}
